@@ -209,10 +209,8 @@ Track your active rentals and return books with a single click.
 
 ## Demo Video
 
-<video width="100%" controls autoplay>
-  <source src="images/DEMO.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Demo](images/video-thumbnail.jpg)](images/DEMO.mp4)
+*Click the image above to watch the demo video
 
 ## Future Enhancements
 
