@@ -3,9 +3,16 @@
 ## CS 218: Programmable and Interoperable Blockchains
 
 ### Team Members
-- [Team Member 1 Name] [Roll Number]
-- [Team Member 2 Name] [Roll Number]
-- [Team Member 3 Name] [Roll Number]
+- [Mayank Yadav] [230002041]
+- [Utkarsh Singh] [230041035]
+- [Harshvardhan Choudhary] [230002027]
+- [Jeel Savsani] [230001033]
+- [Anuj Kothari] [230008010]
+- [Prayag Lakhani] [230001045]
+
+
+
+
 
 ## Project Overview
 
