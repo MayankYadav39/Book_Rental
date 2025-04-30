@@ -93,6 +93,7 @@ The BookRental contract implements numerous gas optimization techniques and secu
 ## Test Results
 
 Our comprehensive test suite includes 15 test cases that verify all functionality:
+Given are the test cases and verified results for following:
 
 ![Test Results](images/test_gas_results.png)
 
