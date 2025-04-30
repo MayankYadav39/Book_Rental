@@ -1,0 +1,59 @@
+console.log("Before:", before.toString()); 
+const before = await c.totalBooks();
+const c       = factory.attach(addr);
+const before = await c.totalBooks();
+console.log("Before:", before.toString()); 
+const before = await c.totalBooks();
+const c       = factory.attach(addr);
+const addr    = "0x5FbDB2315678afecb367f032d93F642f64180aa3"; 
+const factory = await ethers.getContractFactory("BookRental");
+const { ethers } = hre;
+const hre     = require("hardhat")
+const hre     = require("hardhat");
+npx hardhat console --network hardhat
+})();
+  console.log("After: ", (await c.totalBooks()).toString());  // → "1"
+  );
+    ethers.parseEther("0.002")   // deposit
+    ethers.parseEther("0.0005"), // lateFeePerDay
+    ethers.parseEther("0.001"),  // pricePerDay
+    "My Desc", 
+    "My Title", 
+  await c.listBook(
+  console.log("Before:", (await c.totalBooks()).toString()); // → "0"
+  const c       = factory.attach(addr);
+  const addr    = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+  const factory = await ethers.getContractFactory("BookRental");
+;(async () => {
+const { ethers } = hre;
+const hre    = require("hardhat");
+const hre    = require("hardhat");const { ethers } = hre;
+clear
+const c = (await ethers.getContractFactory("BookRental"))            .attach("0x5FbDB…");console.log(await c.totalBooks()); 
+console.log(await c.totalBooks());       // should log 1
+await c.listBook("Title","Desc","img",1,1,1);
+console.log(await c.totalBooks());       // should log 0
+            .attach("0x5FbDB…");
+const c = (await ethers.getContractFactory("BookRental"))
+const c = (await ethers.getContractFactory("BookRental"))            .attach("0x5FbDB…");
+npx hardhat console --network hardhat
+console.log("After: ", (await c.totalBooks()).toString()); // should be 1
+// Check total again
+await c.listBook("My Title", "My Desc", ethers.parseUnits("1", "ether"), ethers.parseUnits("0.5", "ether"), "https://…");
+// Call listBook
+console.log("Before:", (await c.totalBooks()).toString()); // should be 0
+// Check total before listing
+const c       = factory.attach(addr);
+const addr    = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const factory = await hre.ethers.getContractFactory("BookRental");
+const hre     = require("hardhat");
+console.log("After: ", (await c.totalBooks()).toString()); // should be 1
+// Check total again
+await c.listBook("My Title", "My Desc", ethers.parseUnits("1", "ether"), ethers.parseUnits("0.5", "ether"), "https://…");
+// Call listBook
+console.log("Before:", (await c.totalBooks()).toString()); // should be 0
+// Check total before listing
+const c       = factory.attach(addr);
+const addr    = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const factory = await hre.ethers.getContractFactory("BookRental");
+const hre     = require("hardhat");

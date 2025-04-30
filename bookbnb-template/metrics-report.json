@@ -1,0 +1,19 @@
+{
+  "gas": {},
+  "executionTime": {
+    "contract_deployment": {
+      "avg": 34,
+      "min": 34,
+      "max": 34,
+      "samples": 1
+    }
+  },
+  "transactionSuccess": {
+    "successRate": "0.00%",
+    "failureRate": "100.00%",
+    "totalTransactions": 2,
+    "successfulTransactions": 0,
+    "failedTransactions": 2
+  },
+  "storage": {}
+}

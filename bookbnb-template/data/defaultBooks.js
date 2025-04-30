@@ -1,0 +1,40 @@
+// data/defaultBooks.js
+export const defaultBooks = [
+    {
+      id: 0,
+      title:       "1984",
+      description: "George Orwell’s dystopian classic.",
+      image:       "/1984.png",
+      pricePerDay: 0.01,
+      deposit:     0.05,
+      owner:       "",
+      renter:      "",
+      rentUntil:   0,
+      isRented:    false,
+    },
+    {
+      id: 1,
+      title:       "Pride and Prejudice",
+      description: "Jane Austen’s beloved novel of manners.",
+      image:       "/Pride-and-Prejudice.png",
+      pricePerDay: 0.008,
+      deposit:     0.04,
+      owner:       "",
+      renter:      "",
+      rentUntil:   0,
+      isRented:    false,
+    },
+    {
+      id: 2,
+      title:       "To Kill a Mockingbird",
+      description: "Harper Lee’s Pulitzer Prize–winning novel.",
+      image:       "/mocking.jpg",
+      pricePerDay: 0.012,
+      deposit:     0.06,
+      owner:       "",
+      renter:      "",
+      rentUntil:   0,
+      isRented:    false,
+    },
+    // …add as many defaults as you like
+  ];
