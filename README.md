@@ -3,12 +3,17 @@
 ## CS 218: Programmable and Interoperable Blockchains
 
 ### Team Members
-- [Mayank Yadav] [230002041]
-- [Utkarsh Singh] [230041035]
-- [Harshvardhan Choudhary] [230002027]
-- [Jeel Savsani] [230001033]
-- [Anuj Kothari] [230008010]
-- [Prayag Lakhani] [230001045]
+Mayank Yadav – Roll No: 230002041
+
+Utkarsh Singh – Roll No: 230041035
+
+Harshvardhan Choudhary – Roll No: 230002027
+
+Jeel Savsani – Roll No: 230001033
+
+Anuj Kothari – Roll No: 230008010
+
+Prayag Lakhani – Roll No: 230001045
 
 
 
