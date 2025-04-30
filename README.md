@@ -157,8 +157,8 @@ All operations have been tested for reliability, with a 100% success rate for va
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/book-rental
-   cd book-rental
+   git clone https://github.com/MayankYadav39/book-rental
+   cd book-rental/bookbnb-template
    ```
 
 2. Install dependencies:
@@ -209,7 +209,10 @@ The project includes a modern, user-friendly web interface for interacting with 
 
 1. Start the development server:
    ```bash
-   npm run dev
+   yarn blockchain
+   npx hardhat run scripts/deploy.js --network localhost
+   yarn dev
+   
    ```
 
 2. Open your browser and navigate to `http://localhost:3000`
