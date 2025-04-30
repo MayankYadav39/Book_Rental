@@ -43,6 +43,8 @@ This project implements a decentralized book-rental platform on Ethereum. Users 
    - Each user’s rentals tracked in O(1) operations.  
 
 ---
+<video src="images/DEMO.mp4" controls autoplay loop muted width="480"></video>
+
 
 ## Smart Contract Design
 
