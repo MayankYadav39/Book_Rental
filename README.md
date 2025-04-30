@@ -214,31 +214,6 @@ Track your active rentals and return books with a single click.
 [![Watch the Demo](images/video-thumbnail.jpg)](images/DEMO.mp4)
 *Click the image above to watch the demo video
 
-## Future Enhancements
-
-Our roadmap for improving the platform includes:
-
-1. **Dispute Resolution System**
-   - Decentralized arbitration for disputes about book condition
-   - Community-based resolution mechanisms
-
-2. **User Reputation System**
-   - Rating system for both renters and book owners
-   - Reputation-based incentives for platform participants
-
-3. **Advanced Search & Categories**
-   - Book categorization by genre, author, and popularity
-   - Enhanced search filters for better discovery
-
-4. **Extended Rental Features**
-   - In-contract rental extensions
-   - Early return incentives
-   - Reservation system for future dates
-
-5. **Operational Improvements**
-   - Bulk operations for listing multiple books
-   - Gasless transaction options
-   - Layer 2 integration for reduced fees
 
 ## Conclusion
 
